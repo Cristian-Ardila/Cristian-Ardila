@@ -68,8 +68,8 @@
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=CristianArdilah&count_private=true&theme=midnight-purple&show_icons=true&title_color=white&text_color=white&icon_color=purple" alt="GitHub Stats" />
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CristianArdilah&count_private=true&theme=midnight-purple" alt="Streak Stats" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=CristianArdila&count_private=true&theme=midnight-purple&show_icons=true&title_color=white&text_color=white&icon_color=purple" alt="GitHub Stats" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CristianArdila&count_private=true&theme=midnight-purple" alt="Streak Stats" />
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianArdila&count_private=true&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=141321&theme=midnight-purple" alt="Top Languages" />
 </p>
 
